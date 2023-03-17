@@ -3,7 +3,7 @@
 </script>
 
 <template>
-HELLO C4EST LE HEADER
+HELLO C4EST LE FOOTER
 </template>
 
 <style scoped>
